@@ -1,6 +1,6 @@
 {
     "minimum_version": "1.0.0",
-    "latest_version": "1.0.0",
+    "latest_version": "1.2.2",
     "force_update": false,
     "update_message_en": "A new version of Mahami is available with improvements and bug fixes.",
     "update_message_ar": "يوجد إصدار جديد من مهامي مع تحسينات وإصلاح للأخطاء."
