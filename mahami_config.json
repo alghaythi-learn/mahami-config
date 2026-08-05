@@ -1,7 +1,7 @@
 {
-   "minimum_version": "1.0.0",
-   "latest_version": "1.3.6",
-   "force_update": false,
-   "update_message_en": "New features and improvements available!",
-   "update_message_ar": "ميزات جديدة وتحسينات متاحة!"
+    "minimum_version": "1.3.0",
+    "latest_version": "1.3.8",
+    "force_update": false,
+    "update_message_en": "Bug fixes and improvements available!",
+    "update_message_ar": "إصلاحات وتحسينات متاحة!"
 }
