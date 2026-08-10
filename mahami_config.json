@@ -1,7 +1,7 @@
 {
     "minimum_version": "1.3.0",
-    "latest_version": "1.3.8",
+    "latest_version": "1.3.9",
     "force_update": false,
-    "update_message_en": "Bug fixes and improvements available!",
-    "update_message_ar": "إصلاحات وتحسينات متاحة!"
+    "update_message_en": "New: Task Alarms! Update now.",
+    "update_message_ar": "جديد: تنبيهات المهام! حدّث الآن."
 }
