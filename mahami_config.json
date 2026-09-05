@@ -1,7 +1,7 @@
 {
     "minimum_version": "1.3.0",
-    "latest_version": "1.3.9",
+    "latest_version": "1.3.10",
     "force_update": false,
-    "update_message_en": "New: Task Alarms! Update now.",
-    "update_message_ar": "جديد: تنبيهات المهام! حدّث الآن."
+    "update_message_en": "New: Daily Reminders for tasks!",
+    "update_message_ar": "جديد: تذكير يومي للمهام!"
 }
